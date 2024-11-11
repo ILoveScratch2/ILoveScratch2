@@ -23,7 +23,7 @@
 
 
 
-Checkout my Blog Posts [here](https://skerritt.blog)
+Checkout my Blog Posts [here](https://blog.ilovescratch.us.kg/)
 
 Author of:
 
