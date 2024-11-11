@@ -25,8 +25,6 @@
 
 Checkout my Blog Posts [here](https://blog.ilovescratch.us.kg/)
 
-Author of:
-
 
 <!---
 ILoveScratch2/ILoveScratch2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
