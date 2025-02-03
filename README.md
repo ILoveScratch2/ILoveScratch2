@@ -4,7 +4,7 @@
 
 
 <div align="center">
-<h3>  💻 Programming Lover |🌏 Guangdong, China </h3> 
+<h3>  💻 Programming Lover |🌏 Shenzhen, China </h3> 
 </div>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
