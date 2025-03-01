@@ -50,7 +50,7 @@
 
 **📫 How to Reach me:**
 
-<a href="mailto:ilovescratch@ilovescratch.us.kg" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+<a href="mailto:ilovescratch@foxmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 
 Tip: I will reply any emails from my personal account: ilovescratch@foxmail.com
 
