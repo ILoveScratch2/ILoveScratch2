@@ -62,7 +62,7 @@ My OpenPGP public key for email [Here](https://keys.openpgp.org/search?q=ilovesc
 ### About me 
 
 
-Checkout my Blog Posts [here](https://blog.ilovescratch.us.kg/)
+Checkout my Blog Posts [here](https://blog.ilovescratch.dpdns.org/)
 
 
 <!---
