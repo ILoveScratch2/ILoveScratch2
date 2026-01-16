@@ -91,7 +91,7 @@
   
   <h3>About Me</h3>
   
-  <p>Checkout my Blog Posts <a href="https://blog.ilovescratch.dpdns.org/">here</a></p>
+  <p>Checkout my Blog Posts <a href="https://blog.ilovescratch.us.ci/">here</a></p>
 </div>
 
 
