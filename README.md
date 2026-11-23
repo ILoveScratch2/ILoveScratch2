@@ -54,6 +54,44 @@
 
 </div>
 
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              113.9043439,
+              22.5805354
+            ],
+            [
+              113.8514692,
+              22.5191368
+            ],
+            [
+              113.8829589,
+              22.4411926
+            ],
+            [
+              113.9600859,
+              22.5194686
+            ],
+            [
+              113.9043439,
+              22.5805354
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
 
 <!---
 ILoveScratch2/ILoveScratch2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
